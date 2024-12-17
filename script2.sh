@@ -4,6 +4,5 @@
  
 for i in {1..5}
 do
-    read -p "Enter filename $i : " filename
-    touch $filename
+    touch test$1.txt
 done
