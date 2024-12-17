@@ -4,5 +4,5 @@
  
 for i in {1..5}
 do
-    touch test$1.txt
+    touch test$i.txt
 done
