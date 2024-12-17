@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Creating 3 directories and 3 files in each
+#Creating 5 files
  
 for i in {1..5}
 do
